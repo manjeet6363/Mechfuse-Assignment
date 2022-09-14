@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mechfuse-Assignment/static/css/main.073c9b0a.css",
-    "main.js": "/Mechfuse-Assignment/static/js/main.3f579a5c.js",
+    "main.js": "/Mechfuse-Assignment/static/js/main.b4cf4743.js",
     "static/js/787.66a4299e.chunk.js": "/Mechfuse-Assignment/static/js/787.66a4299e.chunk.js",
     "index.html": "/Mechfuse-Assignment/index.html",
     "main.073c9b0a.css.map": "/Mechfuse-Assignment/static/css/main.073c9b0a.css.map",
-    "main.3f579a5c.js.map": "/Mechfuse-Assignment/static/js/main.3f579a5c.js.map",
+    "main.b4cf4743.js.map": "/Mechfuse-Assignment/static/js/main.b4cf4743.js.map",
     "787.66a4299e.chunk.js.map": "/Mechfuse-Assignment/static/js/787.66a4299e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3f579a5c.js"
+    "static/js/main.b4cf4743.js"
   ]
 }
